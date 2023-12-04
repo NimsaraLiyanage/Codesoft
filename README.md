@@ -1,5 +1,7 @@
 # Codesoft
-There are three tasks of the CodeSoft java Internship 
+For the CodeSoft Java Internship, there are three tasks I did.
+
+
 
 TASK 3 - ATM INTERFACE requirenments 👀✨--->>
 
